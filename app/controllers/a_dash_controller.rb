@@ -13,4 +13,10 @@ class ADashController < ApplicationController
     
     def delete
     end
+    
+    def show
+    end
+    
+    def list
+    end
 end
