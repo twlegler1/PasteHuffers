@@ -1,0 +1,2 @@
+module SLoginHelper
+end

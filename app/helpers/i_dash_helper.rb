@@ -1,0 +1,2 @@
+module IDashHelper
+end
