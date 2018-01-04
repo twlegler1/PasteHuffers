@@ -1,0 +1,2 @@
+module ADashHelper
+end

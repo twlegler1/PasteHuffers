@@ -1,0 +1,2 @@
+class CDashController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class CeController < ApplicationController
+end

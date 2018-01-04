@@ -1,0 +1,2 @@
+class SLoginController < ApplicationController
+end

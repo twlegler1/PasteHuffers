@@ -1,0 +1,2 @@
+class ILoginController < ApplicationController
+end

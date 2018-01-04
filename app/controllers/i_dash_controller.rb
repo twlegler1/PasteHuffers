@@ -1,0 +1,2 @@
+class IDashController < ApplicationController
+end

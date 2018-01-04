@@ -1,0 +1,2 @@
+class ADashController < ApplicationController
+end
